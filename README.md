@@ -1,2 +1,2 @@
 # z-score-viz
-Visualization of z-scores
+Shiny app to visualize z-scores
